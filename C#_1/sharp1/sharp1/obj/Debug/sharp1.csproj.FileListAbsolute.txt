@@ -1,0 +1,10 @@
+C:\Users\aleksandr\source\repos\sharp1\sharp1\bin\Debug\sharp1.exe.config
+C:\Users\aleksandr\source\repos\sharp1\sharp1\bin\Debug\sharp1.exe
+C:\Users\aleksandr\source\repos\sharp1\sharp1\bin\Debug\sharp1.pdb
+C:\Users\aleksandr\source\repos\sharp1\sharp1\obj\Debug\sharp1.csproj.AssemblyReference.cache
+C:\Users\aleksandr\source\repos\sharp1\sharp1\obj\Debug\sharp1.Form1.resources
+C:\Users\aleksandr\source\repos\sharp1\sharp1\obj\Debug\sharp1.Properties.Resources.resources
+C:\Users\aleksandr\source\repos\sharp1\sharp1\obj\Debug\sharp1.csproj.GenerateResource.cache
+C:\Users\aleksandr\source\repos\sharp1\sharp1\obj\Debug\sharp1.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr\source\repos\sharp1\sharp1\obj\Debug\sharp1.exe
+C:\Users\aleksandr\source\repos\sharp1\sharp1\obj\Debug\sharp1.pdb
